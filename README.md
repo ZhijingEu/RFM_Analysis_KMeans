@@ -6,10 +6,5 @@ https://zhijingeu.medium.com/building-a-rfm-segmentation-with-python-k-means-clu
 
 I've avoided duplicating the data which is available from Kaggle here:
 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
-where the relevant datasets are:
--olist_customers_dataset.csv
--olist_orders_dataset.csv
--olist_order_items_dataset.csv
--olist_order_payments_dataset.csv
--olist_products_dataset.csv
+where the relevant datasets are: olist_customers_dataset.csv; olist_orders_dataset.csv ; olist_order_items_dataset.csv ; olist_order_payments_dataset.csv ; olist_products_dataset.csv
 
